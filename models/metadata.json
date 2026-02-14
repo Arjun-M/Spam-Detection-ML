@@ -1,0 +1,8 @@
+{
+  "spam_threshold": 0.5784,
+  "short_text_word_count": 2,
+  "short_text_threshold": 0.9,
+  "very_short_text_word_count": 1,
+  "very_short_text_threshold": 0.96,
+  "target_min_precision": 0.98
+}

@@ -1,0 +1,405 @@
+{"text": "ok", "label": 0, "category": "normal"}
+{"text": "okay sure", "label": 0, "category": "normal"}
+{"text": "lol that was funny", "label": 0, "category": "normal"}
+{"text": "new video uploaded", "label": 0, "category": "normal"}
+{"text": "join now for standup", "label": 0, "category": "normal"}
+{"text": "join now for class", "label": 0, "category": "normal"}
+{"text": "call me when free", "label": 0, "category": "normal"}
+{"text": "on my way", "label": 0, "category": "normal"}
+{"text": "reached home", "label": 0, "category": "normal"}
+{"text": "good morning team", "label": 0, "category": "normal"}
+{"text": "good night bro", "label": 0, "category": "normal"}
+{"text": "thanks got it", "label": 0, "category": "normal"}
+{"text": "can you send notes", "label": 0, "category": "normal"}
+{"text": "are we meeting today", "label": 0, "category": "normal"}
+{"text": "lets talk later", "label": 0, "category": "normal"}
+{"text": "what time is practice", "label": 0, "category": "normal"}
+{"text": "see you at 6", "label": 0, "category": "normal"}
+{"text": "where are you", "label": 0, "category": "normal"}
+{"text": "coming in 10 mins", "label": 0, "category": "normal"}
+{"text": "will ping you soon", "label": 0, "category": "normal"}
+{"text": "i won football match today hurray", "label": 0, "category": "normal"}
+{"text": "we won the cricket game", "label": 0, "category": "normal"}
+{"text": "our team won the finals", "label": 0, "category": "normal"}
+{"text": "she won the race yesterday", "label": 0, "category": "normal"}
+{"text": "he won coding contest", "label": 0, "category": "normal"}
+{"text": "join me for lunch now", "label": 0, "category": "normal"}
+{"text": "join now if you are available", "label": 0, "category": "normal"}
+{"text": "happy birthday have fun", "label": 0, "category": "normal"}
+{"text": "congrats on promotion", "label": 0, "category": "normal"}
+{"text": "new reel dropped check it", "label": 0, "category": "normal"}
+{"text": "sent the invoice", "label": 0, "category": "normal"}
+{"text": "please review pull request", "label": 0, "category": "normal"}
+{"text": "deploy is done", "label": 0, "category": "normal"}
+{"text": "server is back online", "label": 0, "category": "normal"}
+{"text": "meeting moved to 4 pm", "label": 0, "category": "normal"}
+{"text": "can you share location", "label": 0, "category": "normal"}
+{"text": "booked the cab", "label": 0, "category": "normal"}
+{"text": "landed safely", "label": 0, "category": "normal"}
+{"text": "just woke up", "label": 0, "category": "normal"}
+{"text": "stuck in traffic", "label": 0, "category": "normal"}
+{"text": "lets watch movie tonight", "label": 0, "category": "normal"}
+{"text": "bring charger please", "label": 0, "category": "normal"}
+{"text": "class starts in 5 minutes", "label": 0, "category": "normal"}
+{"text": "i will be late today", "label": 0, "category": "normal"}
+{"text": "done with task", "label": 0, "category": "normal"}
+{"text": "updated the document", "label": 0, "category": "normal"}
+{"text": "sent mail to client", "label": 0, "category": "normal"}
+{"text": "how can i help you", "label": 0, "category": "normal"}
+{"text": "do you need anything", "label": 0, "category": "normal"}
+{"text": "i am available now", "label": 0, "category": "normal"}
+{"text": "check this playlist", "label": 0, "category": "normal"}
+{"text": "got your message", "label": 0, "category": "normal"}
+{"text": "please call urgently", "label": 0, "category": "normal"}
+{"text": "join now for game night", "label": 0, "category": "normal"}
+{"text": "we won again today", "label": 0, "category": "normal"}
+{"text": "practice session was great", "label": 0, "category": "normal"}
+{"text": "see you tomorrow", "label": 0, "category": "normal"}
+{"text": "approved from my side", "label": 0, "category": "normal"}
+{"text": "can we reschedule", "label": 0, "category": "normal"}
+{"text": "thanks for helping", "label": 0, "category": "normal"}
+{"text": "lets start for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for meeting tonight", "label": 0, "category": "normal"}
+{"text": "i won cricket match today hurray", "label": 0, "category": "normal"}
+{"text": "call me for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for call tonight", "label": 0, "category": "normal"}
+{"text": "come now for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "where are you now", "label": 0, "category": "normal"}
+{"text": "can you help me", "label": 0, "category": "normal"}
+{"text": "running late for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "on my way for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for call tonight", "label": 0, "category": "normal"}
+{"text": "running late for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "running late for call tonight", "label": 0, "category": "normal"}
+{"text": "come now for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for meeting tonight", "label": 0, "category": "normal"}
+{"text": "on my way for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for class tonight", "label": 0, "category": "normal"}
+{"text": "join now for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for review tonight", "label": 0, "category": "normal"}
+{"text": "lets start for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "send location please", "label": 0, "category": "normal"}
+{"text": "text me for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for standup tonight", "label": 0, "category": "normal"}
+{"text": "lets start for session tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for session tonight", "label": 0, "category": "normal"}
+{"text": "text me for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "running late for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for class tonight", "label": 0, "category": "normal"}
+{"text": "call me for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "deploy completed", "label": 0, "category": "normal"}
+{"text": "running late for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for review tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "we won badminton game fair and square", "label": 0, "category": "normal"}
+{"text": "join now for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "can we do later for class tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for game night tonight", "label": 0, "category": "normal"}
+{"text": "on my way for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "running late for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for standup tonight", "label": 0, "category": "normal"}
+{"text": "we won volleyball game fair and square", "label": 0, "category": "normal"}
+{"text": "our team won the football finals", "label": 0, "category": "normal"}
+{"text": "already there for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for session tonight", "label": 0, "category": "normal"}
+{"text": "running late for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for game night tonight", "label": 0, "category": "normal"}
+{"text": "call me for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "can we do later for review tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for meeting tonight", "label": 0, "category": "normal"}
+{"text": "on my way for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "come now for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "can we do later for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for standup tonight", "label": 0, "category": "normal"}
+{"text": "already there for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for meeting tonight", "label": 0, "category": "normal"}
+{"text": "running late for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "can we do later for game night tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for standup tonight", "label": 0, "category": "normal"}
+{"text": "already there for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "i won basketball match today hurray", "label": 0, "category": "normal"}
+{"text": "join now for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "on my way for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "can we do later for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for practice tonight", "label": 0, "category": "normal"}
+{"text": "running late for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "running late for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "our team won the cricket finals", "label": 0, "category": "normal"}
+{"text": "call me for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "can we do later for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "come now for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for lunch tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for practice tonight", "label": 0, "category": "normal"}
+{"text": "come now for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for meeting tonight", "label": 0, "category": "normal"}
+{"text": "lets start for project tonight", "label": 0, "category": "normal"}
+{"text": "running late for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for meeting tonight", "label": 0, "category": "normal"}
+{"text": "on my way for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "we won football game fair and square", "label": 0, "category": "normal"}
+{"text": "come now for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for call tonight", "label": 0, "category": "normal"}
+{"text": "come now for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for game night tonight", "label": 0, "category": "normal"}
+{"text": "already there for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for class tonight", "label": 0, "category": "normal"}
+{"text": "come now for lunch tonight", "label": 0, "category": "normal"}
+{"text": "already there for session tonight", "label": 0, "category": "normal"}
+{"text": "on my way for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for meeting tonight", "label": 0, "category": "normal"}
+{"text": "text me for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "done with work", "label": 0, "category": "normal"}
+{"text": "see you soon for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "come now for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "can we do later for session tonight", "label": 0, "category": "normal"}
+{"text": "come now for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "on my way for review tonight", "label": 0, "category": "normal"}
+{"text": "lets start for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for meeting tonight", "label": 0, "category": "normal"}
+{"text": "on my way for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for game night tonight", "label": 0, "category": "normal"}
+{"text": "lets catch up later", "label": 0, "category": "normal"}
+{"text": "already there for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for call tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for meeting tonight", "label": 0, "category": "normal"}
+{"text": "text me for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "i will call you back", "label": 0, "category": "normal"}
+{"text": "see you soon for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "lol thats funny", "label": 0, "category": "normal"}
+{"text": "call me for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for lunch tonight", "label": 0, "category": "normal"}
+{"text": "on my way for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for project tonight", "label": 0, "category": "normal"}
+{"text": "come now for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "come now for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for lunch tonight", "label": 0, "category": "normal"}
+{"text": "text me for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "can we do later for call tonight", "label": 0, "category": "normal"}
+{"text": "come now for practice tonight", "label": 0, "category": "normal"}
+{"text": "lets start for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "ok thanks", "label": 0, "category": "normal"}
+{"text": "see you soon for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for call tonight", "label": 0, "category": "normal"}
+{"text": "new video dropped", "label": 0, "category": "normal"}
+{"text": "text me for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "come now for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "join now for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for session tonight", "label": 0, "category": "normal"}
+{"text": "call me for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "see you soon for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "i won badminton match today hurray", "label": 0, "category": "normal"}
+{"text": "text me for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for game night at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for review tonight", "label": 0, "category": "normal"}
+{"text": "come now for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for practice tonight", "label": 0, "category": "normal"}
+{"text": "call me for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for review in 5 mins", "label": 0, "category": "normal"}
+{"text": "on my way for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "good night everyone", "label": 0, "category": "normal"}
+{"text": "on my way for project at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for project tonight", "label": 0, "category": "normal"}
+{"text": "already there for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for session tonight", "label": 0, "category": "normal"}
+{"text": "lets start for session at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for class tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "call me for lunch in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "come now for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "lets start for practice tonight", "label": 0, "category": "normal"}
+{"text": "lets start for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "running late for standup at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for game night in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for game night tomorrow morning", "label": 0, "category": "normal"}
+{"text": "can we do later for call in 5 mins", "label": 0, "category": "normal"}
+{"text": "text me for standup tonight", "label": 0, "category": "normal"}
+{"text": "text me for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "see you soon for practice at 4 pm", "label": 0, "category": "normal"}
+{"text": "text me for practice tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for standup tonight", "label": 0, "category": "normal"}
+{"text": "running late for lunch at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for practice tonight", "label": 0, "category": "normal"}
+{"text": "already there for call tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for meeting in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for call at 4 pm", "label": 0, "category": "normal"}
+{"text": "can we do later for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "running late for session tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for standup tonight", "label": 0, "category": "normal"}
+{"text": "text me for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "on my way for practice tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for meeting at 4 pm", "label": 0, "category": "normal"}
+{"text": "call me for class tonight", "label": 0, "category": "normal"}
+{"text": "already there for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for lunch tonight", "label": 0, "category": "normal"}
+{"text": "we won cricket game fair and square", "label": 0, "category": "normal"}
+{"text": "come now for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "already there for standup tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for class in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "join now for lunch tonight", "label": 0, "category": "normal"}
+{"text": "our team won the volleyball finals", "label": 0, "category": "normal"}
+{"text": "join now for standup in 5 mins", "label": 0, "category": "normal"}
+{"text": "see you soon for project tonight", "label": 0, "category": "normal"}
+{"text": "join now for practice tonight", "label": 0, "category": "normal"}
+{"text": "running late for class tonight", "label": 0, "category": "normal"}
+{"text": "join now for review at 4 pm", "label": 0, "category": "normal"}
+{"text": "on my way for game night tonight", "label": 0, "category": "normal"}
+{"text": "on my way for call tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for lunch tonight", "label": 0, "category": "normal"}
+{"text": "text me for session tomorrow morning", "label": 0, "category": "normal"}
+{"text": "join now for meeting tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for session in 5 mins", "label": 0, "category": "normal"}
+{"text": "can we do later for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "our team won the badminton finals", "label": 0, "category": "normal"}
+{"text": "running late for game night tonight", "label": 0, "category": "normal"}
+{"text": "can we do later for project tonight", "label": 0, "category": "normal"}
+{"text": "join now for standup tonight", "label": 0, "category": "normal"}
+{"text": "lets start for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "lets start for meeting tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for class at 4 pm", "label": 0, "category": "normal"}
+{"text": "already there for project tomorrow morning", "label": 0, "category": "normal"}
+{"text": "on my way for lunch tomorrow morning", "label": 0, "category": "normal"}
+{"text": "text me for project in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for standup tonight", "label": 0, "category": "normal"}
+{"text": "see you soon for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "already there for review tomorrow morning", "label": 0, "category": "normal"}
+{"text": "i won volleyball match today hurray", "label": 0, "category": "normal"}
+{"text": "on my way for class tonight", "label": 0, "category": "normal"}
+{"text": "on my way for practice in 5 mins", "label": 0, "category": "normal"}
+{"text": "lets start for class tomorrow morning", "label": 0, "category": "normal"}
+{"text": "reached home safely", "label": 0, "category": "normal"}
+{"text": "join now for session tonight", "label": 0, "category": "normal"}
+{"text": "running late for practice tomorrow morning", "label": 0, "category": "normal"}
+{"text": "call me for project tonight", "label": 0, "category": "normal"}
+{"text": "okay noted", "label": 0, "category": "normal"}
+{"text": "can we do later for standup in 5 mins", "label": 0, "category": "normal"}

@@ -1,0 +1,661 @@
+{"text": "Your account has been compromised. Click here to reset: http://phish-site.net", "label": 1, "category": "phishing"}
+{"text": "Urgent: Update your banking details immediately.", "label": 1, "category": "phishing"}
+{"text": "Verify your identity to avoid account suspension.", "label": 1, "category": "phishing"}
+{"text": "Security alert: Unusual login detected on your account.", "label": 1, "category": "phishing"}
+{"text": "Password change request for your social media account.", "label": 1, "category": "phishing"}
+{"text": "Your tax refund is ready. Click to claim.", "label": 1, "category": "phishing"}
+{"text": "Your Apple ID has been locked for security reasons.", "label": 1, "category": "phishing"}
+{"text": "Action required: Confirm your email address.", "label": 1, "category": "phishing"}
+{"text": "Suspicious activity on your credit card. Call us.", "label": 1, "category": "phishing"}
+{"text": "Final notice: Your account will be deleted.", "label": 1, "category": "phishing"}
+{"text": "Unauthorized transaction on your account. Review now.", "label": 1, "category": "phishing"}
+{"text": "Your bank account has been temporarily suspended.", "label": 1, "category": "phishing"}
+{"text": "Verify your account to continue using our services.", "label": 1, "category": "phishing"}
+{"text": "Security update: Please log in to secure your account.", "label": 1, "category": "phishing"}
+{"text": "Your account has been flagged for suspicious activity.", "label": 1, "category": "phishing"}
+{"text": "Please update your contact information.", "label": 1, "category": "phishing"}
+{"text": "Your payment was declined. Please update your card.", "label": 1, "category": "phishing"}
+{"text": "Your account security is at risk. Take action.", "label": 1, "category": "phishing"}
+{"text": "Confirm your identity to unlock your account.", "label": 1, "category": "phishing"}
+{"text": "Urgent: Your account will be locked in 24 hours.", "label": 1, "category": "phishing"}
+{"text": "Security alert: New device logged into your account.", "label": 1, "category": "phishing"}
+{"text": "Your account requires immediate attention.", "label": 1, "category": "phishing"}
+{"text": "Verify your email to complete your registration.", "label": 1, "category": "phishing"}
+{"text": "Important security notification regarding your profile.", "label": 1, "category": "phishing"}
+{"text": "Access to your account has been restricted.", "label": 1, "category": "phishing"}
+{"text": "Review recent activity on your account.", "label": 1, "category": "phishing"}
+{"text": "Update your security questions now.", "label": 1, "category": "phishing"}
+{"text": "A new login was detected from an unknown location.", "label": 1, "category": "phishing"}
+{"text": "Your account recovery email has been changed.", "label": 1, "category": "phishing"}
+{"text": "Click here to secure your account immediately.", "label": 1, "category": "phishing"}
+{"text": "Chase Bank: We detected an unusual payment of $1,200 to Apple Store. If this wasn't you, click: chase-security-alert.com", "label": 1, "category": "phishing"}
+{"text": "Netflix: Your payment failed. We will suspend your account in 24 hours unless you update your payment method here.", "label": 1, "category": "phishing"}
+{"text": "USPS: Your package US99212 is on hold due to a missing street number. Update delivery details: usps-track-now.net", "label": 1, "category": "phishing"}
+{"text": "Amazon: We noticed a login from a new device in Moscow, Russia. Tap to deny access.", "label": 1, "category": "phishing"}
+{"text": "IRS: You have a pending tax refund of $450. Claim it before it expires: irs-gov-refunds.org", "label": 1, "category": "phishing"}
+{"text": "PayPal: You sent $49.99 to 'Fortnite V-Bucks'. If you did not authorize this, cancel immediately.", "label": 1, "category": "phishing"}
+{"text": "HR Notification: Please review the updated employee handbook and sign the acknowledgement form by 5 PM.", "label": 1, "category": "phishing"}
+{"text": "Wells Fargo: Your debit card has been locked due to 3 incorrect PIN attempts. Unlock it here.", "label": 1, "category": "phishing"}
+{"text": "Apple Support: Your iCloud storage is full. Your photos will be deleted in 48 hours. Upgrade now.", "label": 1, "category": "phishing"}
+{"text": "FedEx: Driver was unable to deliver your parcel. Reschedule delivery here: fedex-reschedule.com", "label": 1, "category": "phishing"}
+{"text": "Microsoft: Your Office 365 password expires today. Keep your current password by verifying here.", "label": 1, "category": "phishing"}
+{"text": "Alert: Your crypto wallet has been connected to a new device. Revoke access immediately.", "label": 1, "category": "phishing"}
+{"text": "AT&T: Your bill for March is ready. Total: $4,299.00. View details if this seems incorrect.", "label": 1, "category": "phishing"}
+{"text": "Congratulations! You've won the Amazon loyalty raffle. Click to arrange shipment of your iPad.", "label": 1, "category": "phishing"}
+{"text": "Bank of America: New Payee 'John Doe' was added. Login to approve or decline.", "label": 1, "category": "phishing"}
+{"text": "DHL: Customs fees of $2.99 are unpaid on your international shipment. Pay now to release package.", "label": 1, "category": "phishing"}
+{"text": "Facebook: Someone is trying to reset your password. If this wasn't you, secure your account.", "label": 1, "category": "phishing"}
+{"text": "CEO Urgent: I am in a meeting and can't talk. I need you to buy 5 Apple gift cards for a client. Expense it later.", "label": 1, "category": "phishing"}
+{"text": "Spotify: Your Premium subscription has been cancelled due to payment failure.", "label": 1, "category": "phishing"}
+{"text": "Costco: You have an unclaimed reward of $50. Survey required.", "label": 1, "category": "phishing"}
+{"text": "Citizen Bank: Authorization code 8821 for transaction of $2000. Call if you did not request this.", "label": 1, "category": "phishing"}
+{"text": "MetaMask: Your wallet seed phrase is compromised. Move assets immediately.", "label": 1, "category": "phishing"}
+{"text": "UPS: We cannot deliver your package today. Please confirm your zone.", "label": 1, "category": "phishing"}
+{"text": "Warning: Your computer is infected with 3 viruses. Call Microsoft Support immediately.", "label": 1, "category": "phishing"}
+{"text": "Venmo: You received a payment of $500.00. Click to deposit to your bank.", "label": 1, "category": "phishing"}
+{"text": "Dropbox: Someone shared 'Payroll_2025.xlsx' with you. View file.", "label": 1, "category": "phishing"}
+{"text": "Verizon: You have exceeded your data limit. Add 5GB for free by verifying your account.", "label": 1, "category": "phishing"}
+{"text": "Refund Issued: Your refund of $399.99 for Norton Antivirus is pending. Call to finalize.", "label": 1, "category": "phishing"}
+{"text": "Zoom: You missed a meeting with 'HR Department'. Listen to the recording here.", "label": 1, "category": "phishing"}
+{"text": "Walmart: Your order #44921 has been shipped. Track it here.", "label": 1, "category": "phishing"}
+{"text": "Credit Karma: Your credit score dropped 50 points. See why.", "label": 1, "category": "phishing"}
+{"text": "SSA: Social Security Administration has suspended your SSN due to suspicious activity.", "label": 1, "category": "phishing"}
+{"text": "Coinbase: Withdrawal of 0.5 BTC initiated. Confirm or Cancel.", "label": 1, "category": "phishing"}
+{"text": "Uber: Your driver is here. View ride details.", "label": 1, "category": "phishing"}
+{"text": "LinkedIn: You appeared in 15 searches this week. See who is looking at your profile.", "label": 1, "category": "phishing"}
+{"text": "Gmail: Suspicious sign-in prevented. Was this you?", "label": 1, "category": "phishing"}
+{"text": "DocuSign: Please sign 'Contract_Agreement_v2.pdf' by end of day.", "label": 1, "category": "phishing"}
+{"text": "Capital One: Your card ending in 9988 was used at Gas Station for $50. Reply YES or NO.", "label": 1, "category": "phishing"}
+{"text": "Roku: Your device is no longer linked. Relink now to watch.", "label": 1, "category": "phishing"}
+{"text": "Twitter: Your account has been suspended for violating community standards. Appeal here.", "label": 1, "category": "phishing"}
+{"text": "Adobe: Your Creative Cloud subscription has expired. Renew to avoid service interruption.", "label": 1, "category": "phishing"}
+{"text": "QuickBooks: Invoice #3321 is due today. View Invoice.", "label": 1, "category": "phishing"}
+{"text": "Delta: Your flight has been cancelled. Click to rebook and claim compensation.", "label": 1, "category": "phishing"}
+{"text": "Airbnb: Your reservation has been cancelled by the host. Refund details.", "label": 1, "category": "phishing"}
+{"text": "Ticketmaster: Transfer of 2 tickets for Taylor Swift initiated. Accept transfer.", "label": 1, "category": "phishing"}
+{"text": "DoorDash: Your Dasher is having trouble finding you. Call them now.", "label": 1, "category": "phishing"}
+{"text": "Amex: Fraud alert. Did you spend $5,000 at Jewelry Store? Call 1-800-XXX-XXXX.", "label": 1, "category": "phishing"}
+{"text": "Hulu: We're having trouble with your billing information. Update now.", "label": 1, "category": "phishing"}
+{"text": "Slack: New message from 'IT Support': Please restart your computer after installing this update.", "label": 1, "category": "phishing"}
+{"text": "Zelle: You sent $250.00. Funds will be deducted immediately.", "label": 1, "category": "phishing"}
+{"text": "Royal Mail: Redelivery fee required. \u00a31.99 outstanding.", "label": 1, "category": "phishing"}
+{"text": "Santander: OTP request. If you did not request this, click link to block account.", "label": 1, "category": "phishing"}
+{"text": "Binance: Your KYC verification failed. Upload ID to unlock trading.", "label": 1, "category": "phishing"}
+{"text": "Google Photos: Auto-backup failed. Storage full.", "label": 1, "category": "phishing"}
+{"text": "McAfee: Your subscription has expired! Your PC is vulnerable. Renew for $9.99.", "label": 1, "category": "phishing"}
+{"text": "Instagram: Copyright violation detected on your post. Review to avoid ban.", "label": 1, "category": "phishing"}
+{"text": "Best Buy: Thank you for your purchase of a 65-inch TV. Receipt attached.", "label": 1, "category": "phishing"}
+{"text": "E-ZPass: Unpaid toll balance of $12.50. Late fees will apply.", "label": 1, "category": "phishing"}
+{"text": "Discord: You have been gifted Nitro! Claim before it expires.", "label": 1, "category": "phishing"}
+{"text": "T-Mobile: Your bill payment was returned. Service will be suspended.", "label": 1, "category": "phishing"}
+{"text": "Norton: Invoice for $299 auto-renewal. Call to cancel.", "label": 1, "category": "phishing"}
+{"text": "Snapchat: New login from iPhone 13. Is this you?", "label": 1, "category": "phishing"}
+{"text": "Lyft: Your ride receipt for $45.20. Tip your driver.", "label": 1, "category": "phishing"}
+{"text": "CashApp: Sign-in attempt from a new device. secure-cash-app.com", "label": 1, "category": "phishing"}
+{"text": "Warning: Apple Pay has been suspended on this device.", "label": 1, "category": "phishing"}
+{"text": "Geek Squad: Your technical support plan has renewed for $399.", "label": 1, "category": "phishing"}
+{"text": "Barclays: Direct debit to Gym set up. Cancel if unauthorized.", "label": 1, "category": "phishing"}
+{"text": "Postmates: Your order is at the door. Rate your delivery.", "label": 1, "category": "phishing"}
+{"text": "HSBC: We are upgrading our security system. Log in to enroll.", "label": 1, "category": "phishing"}
+{"text": "Warning: Your warranty on your vehicle is about to expire.", "label": 1, "category": "phishing"}
+{"text": "Target: Order confirmation. We are preparing your items.", "label": 1, "category": "phishing"}
+{"text": "IRS: Final Notice. Lawsuit filed against you. Call immediately.", "label": 1, "category": "phishing"}
+{"text": "Spectrum: Your internet service is scheduled for disconnection.", "label": 1, "category": "phishing"}
+{"text": "Etsy: Your shop has been paused. Verify taxpayer info.", "label": 1, "category": "phishing"}
+{"text": "Steam: Trade offer received. You have 1 pending item.", "label": 1, "category": "phishing"}
+{"text": "Wayfair: Your furniture delivery is scheduled for tomorrow.", "label": 1, "category": "phishing"}
+{"text": "Twitch: You have been banned from chatting.", "label": 1, "category": "phishing"}
+{"text": "US Bank: Your account is locked. Visit branch or unlock online.", "label": 1, "category": "phishing"}
+{"text": "HelloFresh: Box delivery failed. Update instructions.", "label": 1, "category": "phishing"}
+{"text": "Xfinity: We detected malware coming from your IP address.", "label": 1, "category": "phishing"}
+{"text": "Whole Foods: Your grocery order is ready for pickup.", "label": 1, "category": "phishing"}
+{"text": "Robinhood: Your stock purchase of TSLA was successful.", "label": 1, "category": "phishing"}
+{"text": "Ring: Motion detected at Front Door. View live feed.", "label": 1, "category": "phishing"}
+{"text": "ADT: Alarm triggered at your home address. Verify safety.", "label": 1, "category": "phishing"}
+{"text": "Disney+: Your subscription price is increasing. Lock in old rate.", "label": 1, "category": "phishing"}
+{"text": "HBO Max: Payment declined. Please update card.", "label": 1, "category": "phishing"}
+{"text": "Vanguard: New document available: Trade Confirmation.", "label": 1, "category": "phishing"}
+{"text": "Fidelity: Alert - Large withdrawal request of $10,000.", "label": 1, "category": "phishing"}
+{"text": "TD Bank: Your account balance has dropped below $0.", "label": 1, "category": "phishing"}
+{"text": "PNC Bank: Zelle transfer to 'Alex' pending. Authorize?", "label": 1, "category": "phishing"}
+{"text": "Navy Federal: Security Alert. Card Not Present transaction.", "label": 1, "category": "phishing"}
+{"text": "USAA: Policy update required. Log in to review.", "label": 1, "category": "phishing"}
+{"text": "Discover: Your cashback bonus is ready to be redeemed.", "label": 1, "category": "phishing"}
+{"text": "Goldman Sachs: Application status update.", "label": 1, "category": "phishing"}
+{"text": "Morgan Stanley: Urgent account notice.", "label": 1, "category": "phishing"}
+{"text": "Charles Schwab: Margin call alert. Deposit funds.", "label": 1, "category": "phishing"}
+{"text": "E*TRADE: Tax documents are ready.", "label": 1, "category": "phishing"}
+{"text": "Betterment: Deposit received.", "label": 1, "category": "phishing"}
+{"text": "Wealthfront: Withdrawal confirmation.", "label": 1, "category": "phishing"}
+{"text": "Acorns: Your account is being verified.", "label": 1, "category": "phishing"}
+{"text": "Stash: Password reset request.", "label": 1, "category": "phishing"}
+{"text": "SoFi: Loan application approved. Click to sign.", "label": 1, "category": "phishing"}
+{"text": "Chime: Direct deposit of $1200 received.", "label": 1, "category": "phishing"}
+{"text": "Ally Bank: Your CD has matured.", "label": 1, "category": "phishing"}
+{"text": "Simple Bank: Account closure notice.", "label": 1, "category": "phishing"}
+{"text": "Revolut: Card frozen due to suspicious transaction.", "label": 1, "category": "phishing"}
+{"text": "Monzo: Please verify your identity.", "label": 1, "category": "phishing"}
+{"text": "N26: Security code requested.", "label": 1, "category": "phishing"}
+{"text": "TransferWise: Transfer on hold.", "label": 1, "category": "phishing"}
+{"text": "Western Union: Money available for pickup.", "label": 1, "category": "phishing"}
+{"text": "MoneyGram: Transaction #9921 received.", "label": 1, "category": "phishing"}
+{"text": "Remitly: Transfer failed.", "label": 1, "category": "phishing"}
+{"text": "WorldRemit: Update your recipient details.", "label": 1, "category": "phishing"}
+{"text": "Ria: Money transfer pending.", "label": 1, "category": "phishing"}
+{"text": "Xoom: Transaction cancelled.", "label": 1, "category": "phishing"}
+{"text": "Paysend: Card verification needed.", "label": 1, "category": "phishing"}
+{"text": "Skrill: Account restricted.", "label": 1, "category": "phishing"}
+{"text": "Neteller: Security upgrade.", "label": 1, "category": "phishing"}
+{"text": "Payoneer: You have received a payment.", "label": 1, "category": "phishing"}
+{"text": "Stripe: Payout failed. Update bank details.", "label": 1, "category": "phishing"}
+{"text": "Square: Invoice #102 overdue.", "label": 1, "category": "phishing"}
+{"text": "Shopify: Your store is down. Check billing.", "label": 1, "category": "phishing"}
+{"text": "Wix: Domain expiring soon.", "label": 1, "category": "phishing"}
+{"text": "GoDaddy: Auto-renewal failed.", "label": 1, "category": "phishing"}
+{"text": "Bluehost: Hosting account suspension.", "label": 1, "category": "phishing"}
+{"text": "Namecheap: Verify contact info.", "label": 1, "category": "phishing"}
+{"text": "SiteGround: Malicious files detected.", "label": 1, "category": "phishing"}
+{"text": "HostGator: Invoice overdue.", "label": 1, "category": "phishing"}
+{"text": "WordPress: New login to your admin panel.", "label": 1, "category": "phishing"}
+{"text": "Squarespace: Payment failure.", "label": 1, "category": "phishing"}
+{"text": "Weebly: Account deletion warning.", "label": 1, "category": "phishing"}
+{"text": "Mailchimp: Account compliance issue.", "label": 1, "category": "phishing"}
+{"text": "Salesforce: Password expiration.", "label": 1, "category": "phishing"}
+{"text": "HubSpot: CRM data export alert.", "label": 1, "category": "phishing"}
+{"text": "Zendesk: Ticket #992 updated.", "label": 1, "category": "phishing"}
+{"text": "Intercom: You have a new message.", "label": 1, "category": "phishing"}
+{"text": "Drift: Chat request from customer.", "label": 1, "category": "phishing"}
+{"text": "Asana: You were mentioned in a task.", "label": 1, "category": "phishing"}
+{"text": "Trello: You were added to a board.", "label": 1, "category": "phishing"}
+{"text": "Monday.com: Project deadline approaching.", "label": 1, "category": "phishing"}
+{"text": "ClickUp: Task assigned to you.", "label": 1, "category": "phishing"}
+{"text": "Notion: Page shared with you.", "label": 1, "category": "phishing"}
+{"text": "Evernote: New device access.", "label": 1, "category": "phishing"}
+{"text": "LastPass: Master password change alert.", "label": 1, "category": "phishing"}
+{"text": "1Password: Secret key requested.", "label": 1, "category": "phishing"}
+{"text": "Dashlane: Security breach alert.", "label": 1, "category": "phishing"}
+{"text": "Bitwarden: Vault access attempt.", "label": 1, "category": "phishing"}
+{"text": "NordVPN: Subscription expired.", "label": 1, "category": "phishing"}
+{"text": "ExpressVPN: Update required.", "label": 1, "category": "phishing"}
+{"text": "Surfshark: Login from China detected.", "label": 1, "category": "phishing"}
+{"text": "CyberGhost: Payment declined.", "label": 1, "category": "phishing"}
+{"text": "ProtonMail: Encryption key reset.", "label": 1, "category": "phishing"}
+{"text": "Outlook: Mailbox full. Archive now.", "label": 1, "category": "phishing"}
+{"text": "Yahoo: Account deactivation notice.", "label": 1, "category": "phishing"}
+{"text": "AOL: Security settings changed.", "label": 1, "category": "phishing"}
+{"text": "Zoho: Invoice #991 received.", "label": 1, "category": "phishing"}
+{"text": "iCloud: Locate My iPhone used.", "label": 1, "category": "phishing"}
+{"text": "Samsung: Find My Mobile alert.", "label": 1, "category": "phishing"}
+{"text": "Google: Recovery phone number changed.", "label": 1, "category": "phishing"}
+{"text": "YouTube: Channel strike received.", "label": 1, "category": "phishing"}
+{"text": "TikTok: Verification code: 123456.", "label": 1, "category": "phishing"}
+{"text": "Pinterest: Password reset.", "label": 1, "category": "phishing"}
+{"text": "Reddit: Your account has been permanently suspended.", "label": 1, "category": "phishing"}
+{"text": "Tumblr: Security alert.", "label": 1, "category": "phishing"}
+{"text": "Flickr: Account deletion.", "label": 1, "category": "phishing"}
+{"text": "Vimeo: Copyright claim.", "label": 1, "category": "phishing"}
+{"text": "SoundCloud: Subscription problem.", "label": 1, "category": "phishing"}
+{"text": "Bandcamp: Purchase confirmation.", "label": 1, "category": "phishing"}
+{"text": "Patreon: Payment declined.", "label": 1, "category": "phishing"}
+{"text": "OnlyFans: Login verification.", "label": 1, "category": "phishing"}
+{"text": "Kickstarter: Project update.", "label": 1, "category": "phishing"}
+{"text": "Indiegogo: Contribution error.", "label": 1, "category": "phishing"}
+{"text": "GoFundMe: Withdrawal issue.", "label": 1, "category": "phishing"}
+{"text": "Airbnb: Host cancelled reservation.", "label": 1, "category": "phishing"}
+{"text": "Booking.com: Payment needed for booking.", "label": 1, "category": "phishing"}
+{"text": "Expedia: Flight schedule change.", "label": 1, "category": "phishing"}
+{"text": "Hotels.com: Reward night expiring.", "label": 1, "category": "phishing"}
+{"text": "TripAdvisor: Account review.", "label": 1, "category": "phishing"}
+{"text": "Kayak: Price alert.", "label": 1, "category": "phishing"}
+{"text": "Skyscanner: Flight deal alert.", "label": 1, "category": "phishing"}
+{"text": "Agoda: Booking confirmation.", "label": 1, "category": "phishing"}
+{"text": "Priceline: Trip itinerary.", "label": 1, "category": "phishing"}
+{"text": "Travelocity: Refund processed.", "label": 1, "category": "phishing"}
+{"text": "Orbitz: Account update.", "label": 1, "category": "phishing"}
+{"text": "Southwest: Check-in reminder.", "label": 1, "category": "phishing"}
+{"text": "United: MileagePlus update.", "label": 1, "category": "phishing"}
+{"text": "American Airlines: AAdvantage reward.", "label": 1, "category": "phishing"}
+{"text": "JetBlue: Flight credit expiring.", "label": 1, "category": "phishing"}
+{"text": "Alaska Airlines: Mileage plan alert.", "label": 1, "category": "phishing"}
+{"text": "Spirit Airlines: Flight cancellation.", "label": 1, "category": "phishing"}
+{"text": "Frontier: Baggage fee unpaid.", "label": 1, "category": "phishing"}
+{"text": "British Airways: Avios points update.", "label": 1, "category": "phishing"}
+{"text": "Lufthansa: Booking reference.", "label": 1, "category": "phishing"}
+{"text": "Emirates: Flight status.", "label": 1, "category": "phishing"}
+{"text": "Qatar Airways: Privilege club tier update.", "label": 1, "category": "phishing"}
+{"text": "Air France: Flying Blue alert.", "label": 1, "category": "phishing"}
+{"text": "KLM: Check-in open.", "label": 1, "category": "phishing"}
+{"text": "Ryanair: Boarding pass.", "label": 1, "category": "phishing"}
+{"text": "EasyJet: Flight disruption.", "label": 1, "category": "phishing"}
+{"text": "Hertz: Rental agreement.", "label": 1, "category": "phishing"}
+{"text": "Avis: Receipt for rental.", "label": 1, "category": "phishing"}
+{"text": "Enterprise: Damage report.", "label": 1, "category": "phishing"}
+{"text": "Budget: Reservation confirmation.", "label": 1, "category": "phishing"}
+{"text": "National: Emerald Club update.", "label": 1, "category": "phishing"}
+{"text": "Alamo: Rental receipt.", "label": 1, "category": "phishing"}
+{"text": "Sixt: Invoice #882.", "label": 1, "category": "phishing"}
+{"text": "Thrifty: Toll violation.", "label": 1, "category": "phishing"}
+{"text": "Dollar: Rental extension.", "label": 1, "category": "phishing"}
+{"text": "Turo: Trip request.", "label": 1, "category": "phishing"}
+{"text": "Zipcar: Membership renewal.", "label": 1, "category": "phishing"}
+{"text": "Carvana: Purchase documents.", "label": 1, "category": "phishing"}
+{"text": "Vroom: Delivery update.", "label": 1, "category": "phishing"}
+{"text": "AutoTrader: Seller message.", "label": 1, "category": "phishing"}
+{"text": "Cars.com: Price drop alert.", "label": 1, "category": "phishing"}
+{"text": "Kelley Blue Book: Instant cash offer.", "label": 1, "category": "phishing"}
+{"text": "Edmunds: Trade-in value.", "label": 1, "category": "phishing"}
+{"text": "Zillow: New home listing.", "label": 1, "category": "phishing"}
+{"text": "Trulia: Rental application.", "label": 1, "category": "phishing"}
+{"text": "Redfin: Tour scheduled.", "label": 1, "category": "phishing"}
+{"text": "Realtor.com: Lead notification.", "label": 1, "category": "phishing"}
+{"text": "Apartments.com: Lease agreement.", "label": 1, "category": "phishing"}
+{"text": "LoopNet: Property inquiry.", "label": 1, "category": "phishing"}
+{"text": "Craigslist: Post flagged.", "label": 1, "category": "phishing"}
+{"text": "Facebook Marketplace: Is this available?", "label": 1, "category": "phishing"}
+{"text": "OfferUp: Buyer message.", "label": 1, "category": "phishing"}
+{"text": "Mercari: Item sold.", "label": 1, "category": "phishing"}
+{"text": "Poshmark: Offer received.", "label": 1, "category": "phishing"}
+{"text": "Depop: Account suspension.", "label": 1, "category": "phishing"}
+{"text": "Vinted: Shipping label.", "label": 1, "category": "phishing"}
+{"text": "ThredUp: Kit received.", "label": 1, "category": "phishing"}
+{"text": "StockX: Bid accepted.", "label": 1, "category": "phishing"}
+{"text": "GOAT: Order verification.", "label": 1, "category": "phishing"}
+{"text": "Grailed: Message from buyer.", "label": 1, "category": "phishing"}
+{"text": "StubHub: Tickets sold.", "label": 1, "category": "phishing"}
+{"text": "SeatGeek: Transfer complete.", "label": 1, "category": "phishing"}
+{"text": "Vivid Seats: Order confirmation.", "label": 1, "category": "phishing"}
+{"text": "Gametime: Last minute tickets.", "label": 1, "category": "phishing"}
+{"text": "Eventbrite: Event reminder.", "label": 1, "category": "phishing"}
+{"text": "Meetup: Group update.", "label": 1, "category": "phishing"}
+{"text": "OpenTable: Reservation confirmed.", "label": 1, "category": "phishing"}
+{"text": "Resy: Table available.", "label": 1, "category": "phishing"}
+{"text": "Yelp: New review.", "label": 1, "category": "phishing"}
+{"text": "Google Maps: Review removed.", "label": 1, "category": "phishing"}
+{"text": "Waze: Traffic alert.", "label": 1, "category": "phishing"}
+{"text": "Garmin: Map update.", "label": 1, "category": "phishing"}
+{"text": "Fitbit: Battery low.", "label": 1, "category": "phishing"}
+{"text": "Strava: Segment record.", "label": 1, "category": "phishing"}
+{"text": "MyFitnessPal: Subscription renewing.", "label": 1, "category": "phishing"}
+{"text": "Nike: Order shipped.", "label": 1, "category": "phishing"}
+{"text": "Adidas: Yeezy drop.", "label": 1, "category": "phishing"}
+{"text": "Under Armour: Account alert.", "label": 1, "category": "phishing"}
+{"text": "Lululemon: Return processed.", "label": 1, "category": "phishing"}
+{"text": "Gymshark: Order update.", "label": 1, "category": "phishing"}
+{"text": "Sephora: Birthday gift.", "label": 1, "category": "phishing"}
+{"text": "Ulta: Points expiring.", "label": 1, "category": "phishing"}
+{"text": "Macy's: Credit card payment due.", "label": 1, "category": "phishing"}
+{"text": "Nordstrom: Note update.", "label": 1, "category": "phishing"}
+{"text": "Bloomingdale's: Sale alert.", "label": 1, "category": "phishing"}
+{"text": "Saks Fifth Avenue: Order delayed.", "label": 1, "category": "phishing"}
+{"text": "Neiman Marcus: Account status.", "label": 1, "category": "phishing"}
+{"text": "Gap: Cash redeeming.", "label": 1, "category": "phishing"}
+{"text": "Old Navy: Super cash.", "label": 1, "category": "phishing"}
+{"text": "Banana Republic: Style update.", "label": 1, "category": "phishing"}
+{"text": "H&M: Membership update.", "label": 1, "category": "phishing"}
+{"text": "Zara: Item back in stock.", "label": 1, "category": "phishing"}
+{"text": "Uniqlo: Order confirmation.", "label": 1, "category": "phishing"}
+{"text": "ASOS: Delivery delay.", "label": 1, "category": "phishing"}
+{"text": "Boohoo: Refund issue.", "label": 1, "category": "phishing"}
+{"text": "Fashion Nova: Order shipped.", "label": 1, "category": "phishing"}
+{"text": "Shein: Package detained.", "label": 1, "category": "phishing"}
+{"text": "Romwe: Order verification.", "label": 1, "category": "phishing"}
+{"text": "AliExpress: Dispute opened.", "label": 1, "category": "phishing"}
+{"text": "Alibaba: Supplier message.", "label": 1, "category": "phishing"}
+{"text": "Banggood: Order tracking.", "label": 1, "category": "phishing"}
+{"text": "Dhgate: Payment verification.", "label": 1, "category": "phishing"}
+{"text": "Gearbest: Shipping update.", "label": 1, "category": "phishing"}
+{"text": "Wish: Refund processed.", "label": 1, "category": "phishing"}
+{"text": "Overstock: Order cancelled.", "label": 1, "category": "phishing"}
+{"text": "Newegg: RMA status.", "label": 1, "category": "phishing"}
+{"text": "B&H Photo: Order confirmation.", "label": 1, "category": "phishing"}
+{"text": "Micro Center: Pickup ready.", "label": 1, "category": "phishing"}
+{"text": "Fry's: Store credit.", "label": 1, "category": "phishing"}
+{"text": "Staples: Reward check.", "label": 1, "category": "phishing"}
+{"text": "Office Depot: Order status.", "label": 1, "category": "phishing"}
+{"text": "Home Depot: Pro account alert.", "label": 1, "category": "phishing"}
+{"text": "Lowe's: Military discount verification.", "label": 1, "category": "phishing"}
+{"text": "Menards: Rebate status.", "label": 1, "category": "phishing"}
+{"text": "Ace Hardware: Rewards update.", "label": 1, "category": "phishing"}
+{"text": "Harbor Freight: Coupon expiring.", "label": 1, "category": "phishing"}
+{"text": "Tractor Supply: Order pickup.", "label": 1, "category": "phishing"}
+{"text": "PetSmart: Grooming appointment.", "label": 1, "category": "phishing"}
+{"text": "Petco: Repeat delivery.", "label": 1, "category": "phishing"}
+{"text": "Chewy: Prescription verification.", "label": 1, "category": "phishing"}
+{"text": "CVS: Prescription ready.", "label": 1, "category": "phishing"}
+{"text": "Walgreens: Vaccine appointment.", "label": 1, "category": "phishing"}
+{"text": "Rite Aid: Rewards load.", "label": 1, "category": "phishing"}
+{"text": "Walmart Pharmacy: Refill reminder.", "label": 1, "category": "phishing"}
+{"text": "Kroger: Fuel points expiring.", "label": 1, "category": "phishing"}
+{"text": "Safeway: Just for U deal.", "label": 1, "category": "phishing"}
+{"text": "Publix: Digital coupon.", "label": 1, "category": "phishing"}
+{"text": "Aldi: Survey winner.", "label": 1, "category": "phishing"}
+{"text": "Lidl: App download.", "label": 1, "category": "phishing"}
+{"text": "Trader Joe's: Recall alert.", "label": 1, "category": "phishing"}
+{"text": "7-Eleven: Rewards points.", "label": 1, "category": "phishing"}
+{"text": "Wawa: Gift card balance.", "label": 1, "category": "phishing"}
+{"text": "Sheetz: Mobile order.", "label": 1, "category": "phishing"}
+{"text": "QuikTrip: Coupon.", "label": 1, "category": "phishing"}
+{"text": "Pilot Flying J: Points balance.", "label": 1, "category": "phishing"}
+{"text": "Love's: Shower credit.", "label": 1, "category": "phishing"}
+{"text": "BP: BPme rewards.", "label": 1, "category": "phishing"}
+{"text": "Shell: Fuel rewards.", "label": 1, "category": "phishing"}
+{"text": "ExxonMobil: Speedpass update.", "label": 1, "category": "phishing"}
+{"text": "Chevron: App login.", "label": 1, "category": "phishing"}
+{"text": "Texaco: Credit card alert.", "label": 1, "category": "phishing"}
+{"text": "Marathon: Rewards card.", "label": 1, "category": "phishing"}
+{"text": "Sunoco: Go Rewards.", "label": 1, "category": "phishing"}
+{"text": "Valero: Payment app.", "label": 1, "category": "phishing"}
+{"text": "Arco: Debit PIN.", "label": 1, "category": "phishing"}
+{"text": "Circle K: Easy Pay update.", "label": 1, "category": "phishing"}
+{"text": "Speedway: Speedy Rewards.", "label": 1, "category": "phishing"}
+{"text": "RaceTrac: App verification.", "label": 1, "category": "phishing"}
+{"text": "Casey's: Pizza order.", "label": 1, "category": "phishing"}
+{"text": "Kum & Go: Rewards.", "label": 1, "category": "phishing"}
+{"text": "Royal Farms: Chicken points.", "label": 1, "category": "phishing"}
+{"text": "Tim Hortons: Roll up the rim.", "label": 1, "category": "phishing"}
+{"text": "Dunkin': Perks update.", "label": 1, "category": "phishing"}
+{"text": "Starbucks: Card reload.", "label": 1, "category": "phishing"}
+{"text": "Peet's Coffee: Order ahead.", "label": 1, "category": "phishing"}
+{"text": "Caribou Coffee: Perks.", "label": 1, "category": "phishing"}
+{"text": "Dutch Bros: App sticker.", "label": 1, "category": "phishing"}
+{"text": "McDonald's: App deal.", "label": 1, "category": "phishing"}
+{"text": "Burger King: Whopper offer.", "label": 1, "category": "phishing"}
+{"text": "Wendy's: Mobile order.", "label": 1, "category": "phishing"}
+{"text": "Taco Bell: Reward expiring.", "label": 1, "category": "phishing"}
+{"text": "KFC: Order status.", "label": 1, "category": "phishing"}
+{"text": "Popeyes: Points balance.", "label": 1, "category": "phishing"}
+{"text": "Chick-fil-A: One reward.", "label": 1, "category": "phishing"}
+{"text": "Subway: Token update.", "label": 1, "category": "phishing"}
+{"text": "Panera Bread: MyPanera reward.", "label": 1, "category": "phishing"}
+{"text": "Chipotle: Guac mode.", "label": 1, "category": "phishing"}
+{"text": "Domino's: Pizza tracker.", "label": 1, "category": "phishing"}
+{"text": "Pizza Hut: Hut Rewards.", "label": 1, "category": "phishing"}
+{"text": "Papa John's: Papa Dough.", "label": 1, "category": "phishing"}
+{"text": "Little Caesars: Portal code.", "label": 1, "category": "phishing"}
+{"text": "Wingstop: Order confirmation.", "label": 1, "category": "phishing"}
+{"text": "Buffalo Wild Wings: Blazin' rewards.", "label": 1, "category": "phishing"}
+{"text": "Olive Garden: E-Club.", "label": 1, "category": "phishing"}
+{"text": "Red Lobster: My Red Lobster Rewards.", "label": 1, "category": "phishing"}
+{"text": "Outback Steakhouse: Dine rewards.", "label": 1, "category": "phishing"}
+{"text": "Texas Roadhouse: Waitlist.", "label": 1, "category": "phishing"}
+{"text": "Chili's: Reward ready.", "label": 1, "category": "phishing"}
+{"text": "Applebee's: Carside to go.", "label": 1, "category": "phishing"}
+{"text": "TGI Fridays: Stripes points.", "label": 1, "category": "phishing"}
+{"text": "Cheesecake Factory: Reservation.", "label": 1, "category": "phishing"}
+{"text": "PF Chang's: Order update.", "label": 1, "category": "phishing"}
+{"text": "Panda Express: Good fortune.", "label": 1, "category": "phishing"}
+{"text": "Denny's: Rewards.", "label": 1, "category": "phishing"}
+{"text": "IHOP: Pancake revolution.", "label": 1, "category": "phishing"}
+{"text": "Waffle House: Coupon.", "label": 1, "category": "phishing"}
+{"text": "Cracker Barrel: Order ready.", "label": 1, "category": "phishing"}
+{"text": "Bob Evans: Farmhouse feast.", "label": 1, "category": "phishing"}
+{"text": "Golden Corral: Special offer.", "label": 1, "category": "phishing"}
+{"text": "Buffet alert: Payment needed.", "label": 1, "category": "phishing"}
+{"text": "DoorDash: Dasher application.", "label": 1, "category": "phishing"}
+{"text": "Uber Eats: Delivery issue.", "label": 1, "category": "phishing"}
+{"text": "Grubhub: Perks update.", "label": 1, "category": "phishing"}
+{"text": "Seamless: Order cancelled.", "label": 1, "category": "phishing"}
+{"text": "Caviar: Receipt.", "label": 1, "category": "phishing"}
+{"text": "Instacart: Shopper needed.", "label": 1, "category": "phishing"}
+{"text": "Shipt: Membership renewal.", "label": 1, "category": "phishing"}
+{"text": "FreshDirect: Delivery slot.", "label": 1, "category": "phishing"}
+{"text": "Peapod: Order confirmation.", "label": 1, "category": "phishing"}
+{"text": "Amazon Fresh: Delivery window.", "label": 1, "category": "phishing"}
+{"text": "Blue Apron: Box skipped.", "label": 1, "category": "phishing"}
+{"text": "Sun Basket: Payment declined.", "label": 1, "category": "phishing"}
+{"text": "Home Chef: Menu selection.", "label": 1, "category": "phishing"}
+{"text": "Marley Spoon: Delivery update.", "label": 1, "category": "phishing"}
+{"text": "Gobble: Dinner kit.", "label": 1, "category": "phishing"}
+{"text": "Factor75: Subscription.", "label": 1, "category": "phishing"}
+{"text": "Nutrisystem: Plan renewal.", "label": 1, "category": "phishing"}
+{"text": "Weight Watchers: WW app login.", "label": 1, "category": "phishing"}
+{"text": "Noom: Course update.", "label": 1, "category": "phishing"}
+{"text": "Peloton: Membership fee.", "label": 1, "category": "phishing"}
+{"text": "NordicTrack: iFit renewal.", "label": 1, "category": "phishing"}
+{"text": "Mirror: Subscription.", "label": 1, "category": "phishing"}
+{"text": "Tonal: Membership.", "label": 1, "category": "phishing"}
+{"text": "Equinox: Club access.", "label": 1, "category": "phishing"}
+{"text": "Planet Fitness: Annual fee.", "label": 1, "category": "phishing"}
+{"text": "Gold's Gym: Contract update.", "label": 1, "category": "phishing"}
+{"text": "LA Fitness: Billing issue.", "label": 1, "category": "phishing"}
+{"text": "24 Hour Fitness: Reopening.", "label": 1, "category": "phishing"}
+{"text": "Anytime Fitness: Key fob.", "label": 1, "category": "phishing"}
+{"text": "Orange Theory: Class booking.", "label": 1, "category": "phishing"}
+{"text": "SoulCycle: Waitlist.", "label": 1, "category": "phishing"}
+{"text": "ClassPass: Credits expiring.", "label": 1, "category": "phishing"}
+{"text": "Mindbody: Appointment.", "label": 1, "category": "phishing"}
+{"text": "Headspace: Subscription.", "label": 1, "category": "phishing"}
+{"text": "Calm: Premium renewal.", "label": 1, "category": "phishing"}
+{"text": "BetterHelp: Therapist message.", "label": 1, "category": "phishing"}
+{"text": "Talkspace: Session reminder.", "label": 1, "category": "phishing"}
+{"text": "Teladoc: Appointment.", "label": 1, "category": "phishing"}
+{"text": "Amwell: Visit summary.", "label": 1, "category": "phishing"}
+{"text": "Doctor On Demand: Prescription.", "label": 1, "category": "phishing"}
+{"text": "MDLive: Urgent care.", "label": 1, "category": "phishing"}
+{"text": "Zocdoc: Review doctor.", "label": 1, "category": "phishing"}
+{"text": "GoodRx: Savings alert.", "label": 1, "category": "phishing"}
+{"text": "WebMD: Symptom checker.", "label": 1, "category": "phishing"}
+{"text": "Mayo Clinic: Portal login.", "label": 1, "category": "phishing"}
+{"text": "Cleveland Clinic: MyChart.", "label": 1, "category": "phishing"}
+{"text": "Kaiser Permanente: Message.", "label": 1, "category": "phishing"}
+{"text": "UnitedHealthcare: Claim denied.", "label": 1, "category": "phishing"}
+{"text": "Anthem: Policy update.", "label": 1, "category": "phishing"}
+{"text": "Aetna: Coverage alert.", "label": 1, "category": "phishing"}
+{"text": "Cigna: ID card.", "label": 1, "category": "phishing"}
+{"text": "Humana: Benefits.", "label": 1, "category": "phishing"}
+{"text": "Blue Cross Blue Shield: Explanation of Benefits.", "label": 1, "category": "phishing"}
+{"text": "Medicare: Enrollment period.", "label": 1, "category": "phishing"}
+{"text": "Medicaid: Renewal.", "label": 1, "category": "phishing"}
+{"text": "Tricare: Benefit update.", "label": 1, "category": "phishing"}
+{"text": "VA: Appointment.", "label": 1, "category": "phishing"}
+{"text": "FEMA: Disaster relief.", "label": 1, "category": "phishing"}
+{"text": "Red Cross: Donation receipt.", "label": 1, "category": "phishing"}
+{"text": "Salvation Army: Pickup.", "label": 1, "category": "phishing"}
+{"text": "Goodwill: Donation.", "label": 1, "category": "phishing"}
+{"text": "Habitat for Humanity: Volunteer.", "label": 1, "category": "phishing"}
+{"text": "UNICEF: Monthly giving.", "label": 1, "category": "phishing"}
+{"text": "WWF: Adoption kit.", "label": 1, "category": "phishing"}
+{"text": "PETA: Action alert.", "label": 1, "category": "phishing"}
+{"text": "ASPCA: Guardian update.", "label": 1, "category": "phishing"}
+{"text": "St. Jude: Thank you.", "label": 1, "category": "phishing"}
+{"text": "Doctors Without Borders: Field update.", "label": 1, "category": "phishing"}
+{"text": "NPR: Pledge drive.", "label": 1, "category": "phishing"}
+{"text": "PBS: Passport access.", "label": 1, "category": "phishing"}
+{"text": "Wikipedia: Donation.", "label": 1, "category": "phishing"}
+{"text": "Khan Academy: Progress.", "label": 1, "category": "phishing"}
+{"text": "Coursera: Financial aid.", "label": 1, "category": "phishing"}
+{"text": "edX: Certificate.", "label": 1, "category": "phishing"}
+{"text": "Udemy: Course sale.", "label": 1, "category": "phishing"}
+{"text": "Udacity: Nanodegree.", "label": 1, "category": "phishing"}
+{"text": "Skillshare: Membership.", "label": 1, "category": "phishing"}
+{"text": "Codecademy: Pro renewal.", "label": 1, "category": "phishing"}
+{"text": "Pluralsight: Assessment.", "label": 1, "category": "phishing"}
+{"text": "LinkedIn Learning: Course recommended.", "label": 1, "category": "phishing"}
+{"text": "Duolingo: Streak freeze.", "label": 1, "category": "phishing"}
+{"text": "Babbel: Subscription.", "label": 1, "category": "phishing"}
+{"text": "Rosetta Stone: Activation.", "label": 1, "category": "phishing"}
+{"text": "Chegg: Rent due.", "label": 1, "category": "phishing"}
+{"text": "Course Hero: Unlock.", "label": 1, "category": "phishing"}
+{"text": "Quizlet: Plus membership.", "label": 1, "category": "phishing"}
+{"text": "Grammarly: Weekly writing stats.", "label": 1, "category": "phishing"}
+{"text": "Turnitin: Paper view.", "label": 1, "category": "phishing"}
+{"text": "Blackboard: Grade posted.", "label": 1, "category": "phishing"}
+{"text": "Canvas: Assignment due.", "label": 1, "category": "phishing"}
+{"text": "Moodle: Forum post.", "label": 1, "category": "phishing"}
+{"text": "Google Classroom: New material.", "label": 1, "category": "phishing"}
+{"text": "Zoom: Class link.", "label": 1, "category": "phishing"}
+{"text": "Microsoft Teams: Assignment.", "label": 1, "category": "phishing"}
+{"text": "Slack: Workspace invite.", "label": 1, "category": "phishing"}
+{"text": "Discord: Server invite.", "label": 1, "category": "phishing"}
+{"text": "WhatsApp: Verification code.", "label": 1, "category": "phishing"}
+{"text": "Telegram: Login code.", "label": 1, "category": "phishing"}
+{"text": "Signal: Verification.", "label": 1, "category": "phishing"}
+{"text": "Viber: Code.", "label": 1, "category": "phishing"}
+{"text": "WeChat: Security check.", "label": 1, "category": "phishing"}
+{"text": "Line: Verification.", "label": 1, "category": "phishing"}
+{"text": "KakaoTalk: Login.", "label": 1, "category": "phishing"}
+{"text": "Skype: Credit low.", "label": 1, "category": "phishing"}
+{"text": "Snapchat: Password.", "label": 1, "category": "phishing"}
+{"text": "Instagram: Copyright.", "label": 1, "category": "phishing"}
+{"text": "Facebook: Community standards.", "label": 1, "category": "phishing"}
+{"text": "Twitter: Suspicious login.", "label": 1, "category": "phishing"}
+{"text": "LinkedIn: Profile view.", "label": 1, "category": "phishing"}
+{"text": "Pinterest: Login.", "label": 1, "category": "phishing"}
+{"text": "TikTok: Ban appeal.", "label": 1, "category": "phishing"}
+{"text": "YouTube: AdSense.", "label": 1, "category": "phishing"}
+{"text": "Twitch: Payout.", "label": 1, "category": "phishing"}
+{"text": "Reddit: Modmail.", "label": 1, "category": "phishing"}
+{"text": "Tumblr: Terminated.", "label": 1, "category": "phishing"}
+{"text": "Flickr: Pro exp.", "label": 1, "category": "phishing"}
+{"text": "500px: Licensing.", "label": 1, "category": "phishing"}
+{"text": "Vimeo: Upload limit.", "label": 1, "category": "phishing"}
+{"text": "Dailymotion: Partner program.", "label": 1, "category": "phishing"}
+{"text": "Dropbox: Box full.", "label": 1, "category": "phishing"}
+{"text": "Google Drive: Shared file.", "label": 1, "category": "phishing"}
+{"text": "OneDrive: Frozen.", "label": 1, "category": "phishing"}
+{"text": "Box: Collaboration.", "label": 1, "category": "phishing"}
+{"text": "iCloud: Storage.", "label": 1, "category": "phishing"}
+{"text": "Mega: Bandwidth.", "label": 1, "category": "phishing"}
+{"text": "MediaFire: Download.", "label": 1, "category": "phishing"}
+{"text": "WeTransfer: Expiring.", "label": 1, "category": "phishing"}
+{"text": "SendSpace: File.", "label": 1, "category": "phishing"}
+{"text": "Zippyshare: Delete.", "label": 1, "category": "phishing"}
+{"text": "Rapidgator: Premium.", "label": 1, "category": "phishing"}
+{"text": "Uploaded: Account.", "label": 1, "category": "phishing"}
+{"text": "Turbobit: Access.", "label": 1, "category": "phishing"}
+{"text": "Nitroflare: Renew.", "label": 1, "category": "phishing"}
+{"text": "Keep2Share: Payment.", "label": 1, "category": "phishing"}
+{"text": "Pornhub: Premium.", "label": 1, "category": "phishing"}
+{"text": "Xvideos: Account.", "label": 1, "category": "phishing"}
+{"text": "YouPorn: Verify.", "label": 1, "category": "phishing"}
+{"text": "RedTube: Login.", "label": 1, "category": "phishing"}
+{"text": "Brazzers: Subscription.", "label": 1, "category": "phishing"}
+{"text": "RealityKings: Renew.", "label": 1, "category": "phishing"}
+{"text": "NaughtyAmerica: Bill.", "label": 1, "category": "phishing"}
+{"text": "BangBros: Charge.", "label": 1, "category": "phishing"}
+{"text": "Chaturbate: Tokens.", "label": 1, "category": "phishing"}
+{"text": "MyFreeCams: Credits.", "label": 1, "category": "phishing"}
+{"text": "LiveJasmin: Private.", "label": 1, "category": "phishing"}
+{"text": "CamSoda: Account.", "label": 1, "category": "phishing"}
+{"text": "Streamate: Model.", "label": 1, "category": "phishing"}
+{"text": "Ashley Madison: Breach.", "label": 1, "category": "phishing"}
+{"text": "Tinder: Gold.", "label": 1, "category": "phishing"}
+{"text": "Bumble: Boost.", "label": 1, "category": "phishing"}
+{"text": "Hinge: Match.", "label": 1, "category": "phishing"}
+{"text": "OkCupid: A-List.", "label": 1, "category": "phishing"}
+{"text": "Plenty of Fish: Message.", "label": 1, "category": "phishing"}
+{"text": "Match.com: Renewal.", "label": 1, "category": "phishing"}
+{"text": "eHarmony: Communication.", "label": 1, "category": "phishing"}
+{"text": "Zoosk: Coins.", "label": 1, "category": "phishing"}
+{"text": "Grindr: Xtra.", "label": 1, "category": "phishing"}
+{"text": "Scruff: Pro.", "label": 1, "category": "phishing"}
+{"text": "Her: Premium.", "label": 1, "category": "phishing"}
+{"text": "Feeld: Majestic.", "label": 1, "category": "phishing"}
+{"text": "Raya: Application.", "label": 1, "category": "phishing"}
+{"text": "The League: Waitlist.", "label": 1, "category": "phishing"}
+{"text": "Coffee Meets Bagel: Beans.", "label": 1, "category": "phishing"}
+{"text": "Happn: Crush.", "label": 1, "category": "phishing"}
+{"text": "Badoo: Credits.", "label": 1, "category": "phishing"}
+{"text": "Tagged: Gold.", "label": 1, "category": "phishing"}
+{"text": "MeetMe: Live.", "label": 1, "category": "phishing"}
+{"text": "Skout: Points.", "label": 1, "category": "phishing"}
+{"text": "Lovoo: VIP.", "label": 1, "category": "phishing"}
+{"text": "Kik: Message.", "label": 1, "category": "phishing"}
+{"text": "Whisper: Secret.", "label": 1, "category": "phishing"}
+{"text": "Yik Yak: Herd.", "label": 1, "category": "phishing"}
+{"text": "Omegle: Ban.", "label": 1, "category": "phishing"}
+{"text": "Chatroulette: Account.", "label": 1, "category": "phishing"}
+{"text": "Second Life: Linden Dollars.", "label": 1, "category": "phishing"}
+{"text": "IMVU: Credits.", "label": 1, "category": "phishing"}
+{"text": "Roblox: Robux.", "label": 1, "category": "phishing"}
+{"text": "Minecraft: Realms.", "label": 1, "category": "phishing"}
+{"text": "Fortnite: V-Bucks.", "label": 1, "category": "phishing"}
+{"text": "Apex Legends: Coins.", "label": 1, "category": "phishing"}
+{"text": "Call of Duty: Points.", "label": 1, "category": "phishing"}
+{"text": "Valorant: VP.", "label": 1, "category": "phishing"}
+{"text": "League of Legends: RP.", "label": 1, "category": "phishing"}
+{"text": "Dota 2: Battle Pass.", "label": 1, "category": "phishing"}
+{"text": "CS:GO: Skins.", "label": 1, "category": "phishing"}
+{"text": "Overwatch: Loot box.", "label": 1, "category": "phishing"}
+{"text": "World of Warcraft: Subscription.", "label": 1, "category": "phishing"}
+{"text": "Final Fantasy XIV: Mog Station.", "label": 1, "category": "phishing"}
+{"text": "Runescape: Membership.", "label": 1, "category": "phishing"}
+{"text": "Elder Scrolls Online: Plus.", "label": 1, "category": "phishing"}
+{"text": "Guild Wars 2: Gems.", "label": 1, "category": "phishing"}
+{"text": "Black Desert Online: Pearls.", "label": 1, "category": "phishing"}
+{"text": "EVE Online: Omega.", "label": 1, "category": "phishing"}
+{"text": "Star Citizen: Pledge.", "label": 1, "category": "phishing"}
+{"text": "No Man's Sky: Update.", "label": 1, "category": "phishing"}
+{"text": "Cyberpunk 2077: Patch.", "label": 1, "category": "phishing"}
+{"text": "GTA Online: Shark Card.", "label": 1, "category": "phishing"}
+{"text": "Red Dead Online: Gold Bars.", "label": 1, "category": "phishing"}
+{"text": "Security alert: verify your account immediately.", "label": 1, "category": "phishing"}
+{"text": "Your banking profile is suspended, confirm details now.", "label": 1, "category": "phishing"}
+{"text": "Urgent notice: reset your password via this link.", "label": 1, "category": "phishing"}
+{"text": "Action required: your email account will be deactivated.", "label": 1, "category": "phishing"}
+{"text": "Confirm your identity to avoid account closure.", "label": 1, "category": "phishing"}
+{"text": "Your card payment failed, update billing information.", "label": 1, "category": "phishing"}
+{"text": "Unauthorized login detected, verify your device.", "label": 1, "category": "phishing"}
+{"text": "Your wallet is locked, submit credentials to unlock.", "label": 1, "category": "phishing"}
+{"text": "Bank warning: unusual activity, confirm PIN now.", "label": 1, "category": "phishing"}
+{"text": "Tax refund pending, provide account details today.", "label": 1, "category": "phishing"}
+{"text": "Important: account verification expires in 30 minutes.", "label": 1, "category": "phishing"}
+{"text": "Your cloud account exceeded quota, login to restore.", "label": 1, "category": "phishing"}
+{"text": "Payment gateway blocked your profile, verify now.", "label": 1, "category": "phishing"}
+{"text": "Service interruption imminent, confirm your credentials.", "label": 1, "category": "phishing"}
+{"text": "Your subscription is paused, update payment method.", "label": 1, "category": "phishing"}
+{"text": "Final warning: account closure if not verified.", "label": 1, "category": "phishing"}
+{"text": "System detected suspicious sign-in, reset password.", "label": 1, "category": "phishing"}
+{"text": "Please confirm your identity to keep account active.", "label": 1, "category": "phishing"}
+{"text": "Your mailbox has security issues, login immediately.", "label": 1, "category": "phishing"}
+{"text": "Critical alert: verify banking details now.", "label": 1, "category": "phishing"}
+{"text": "Your session expired, sign in again to continue.", "label": 1, "category": "phishing"}
+{"text": "We noticed a failed verification, update now.", "label": 1, "category": "phishing"}
+{"text": "Complete KYC now to prevent service suspension.", "label": 1, "category": "phishing"}
+{"text": "Account access restricted, provide confirmation code.", "label": 1, "category": "phishing"}
+{"text": "Security team requests immediate credential validation.", "label": 1, "category": "phishing"}
+{"text": "Your transfer is on hold, verify recipient details.", "label": 1, "category": "phishing"}
+{"text": "Login from unknown location detected, confirm account.", "label": 1, "category": "phishing"}
+{"text": "Your payout failed due to invalid information.", "label": 1, "category": "phishing"}
+{"text": "Verify your phone number to unlock account access.", "label": 1, "category": "phishing"}
+{"text": "Confirm card details to prevent transaction decline.", "label": 1, "category": "phishing"}
+{"text": "Your account has a pending compliance check.", "label": 1, "category": "phishing"}
+{"text": "Immediate verification required to avoid penalties.", "label": 1, "category": "phishing"}
+{"text": "Payment review failed, update your account profile.", "label": 1, "category": "phishing"}
+{"text": "Your profile was flagged, confirm identity now.", "label": 1, "category": "phishing"}
+{"text": "Support team asks you to verify password now.", "label": 1, "category": "phishing"}
+{"text": "Warning: suspicious activity on your bank account.", "label": 1, "category": "phishing"}
+{"text": "Update security questions to keep account active.", "label": 1, "category": "phishing"}
+{"text": "Identity mismatch detected, submit details now.", "label": 1, "category": "phishing"}
+{"text": "Verify now to avoid permanent account lock.", "label": 1, "category": "phishing"}
+{"text": "Account protection alert: re-authenticate immediately.", "label": 1, "category": "phishing"}
+{"text": "Zippyshare: Account action required. Verify now.", "label": 1, "category": "phishing"}
+{"text": "RealityKings: Billing issue detected. Login to resolve.", "label": 1, "category": "phishing"}
+{"text": "Roblox: Suspicious robux activity. Confirm account now.", "label": 1, "category": "phishing"}
+{"text": "Applebees Rewards: verify card details to keep points.", "label": 1, "category": "phishing"}
+{"text": "Mega: Bandwidth lock. Sign in to restore access.", "label": 1, "category": "phishing"}
+{"text": "Teladoc: Security check failed. Verify identity now.", "label": 1, "category": "phishing"}
+{"text": "Chaturbate: Payment verification required immediately.", "label": 1, "category": "phishing"}
+{"text": "eHarmony: Communication alert. Re-authenticate account.", "label": 1, "category": "phishing"}
+{"text": "KakaoTalk: Unusual login detected. Confirm device now.", "label": 1, "category": "phishing"}
+{"text": "Match.com: Subscription suspended. Update billing now.", "label": 1, "category": "phishing"}
+{"text": "500px: Licensing payment failed. Verify payout account.", "label": 1, "category": "phishing"}
+{"text": "CEO urgent: buy gift cards and send codes now.", "label": 1, "category": "phishing"}
+{"text": "Executive request: transfer gift cards immediately.", "label": 1, "category": "phishing"}
+{"text": "Payroll issue: verify employee banking details now.", "label": 1, "category": "phishing"}
+{"text": "Account temporarily disabled. Login now to reactivate.", "label": 1, "category": "phishing"}
+{"text": "Fraud warning: confirm card PIN to avoid block.", "label": 1, "category": "phishing"}
+{"text": "Wallet locked due to KYC mismatch. Verify identity.", "label": 1, "category": "phishing"}
+{"text": "Immediate action: re-enter password to secure account.", "label": 1, "category": "phishing"}
+{"text": "Service interruption notice: validate account credentials.", "label": 1, "category": "phishing"}
+{"text": "Urgent compliance check: confirm date of birth now.", "label": 1, "category": "phishing"}
+{"text": "Suspicious transfer attempt. Confirm recipient details.", "label": 1, "category": "phishing"}
+{"text": "App security alert: authenticate to continue service.", "label": 1, "category": "phishing"}
+{"text": "Account recovery pending. Submit verification code.", "label": 1, "category": "phishing"}
+{"text": "Final warning: your profile will be deleted today.", "label": 1, "category": "phishing"}
+{"text": "Billing declined. Update payment method immediately.", "label": 1, "category": "phishing"}
+{"text": "Unexpected login from new device. Verify ownership.", "label": 1, "category": "phishing"}
+{"text": "Cloud storage will be removed unless you verify now.", "label": 1, "category": "phishing"}
+{"text": "Tax refund pending. Confirm bank information today.", "label": 1, "category": "phishing"}
+{"text": "Your payout failed. Re-verify account details.", "label": 1, "category": "phishing"}
+{"text": "Bank notice: unusual withdrawal attempt. Confirm now.", "label": 1, "category": "phishing"}
